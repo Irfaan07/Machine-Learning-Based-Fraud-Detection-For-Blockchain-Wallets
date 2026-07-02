@@ -1,4 +1,4 @@
-## AI-Powered Blockchain Wallet Fraud Detection System
+## Machine Learning-Based Fraud Detection for Blockchain Wallets
 
 This project is a **production-ready web application** for scanning blockchain wallet addresses (Ethereum and Bitcoin) and estimating a **fraud probability** using a pre-trained ML model (`fraud_model.pkl`).
 
