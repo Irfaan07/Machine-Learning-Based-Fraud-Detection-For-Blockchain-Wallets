@@ -1,5 +1,4 @@
-# Project Outcome Summary: AI-Powered Blockchain Wallet Fraud Detection System
-
+# Project Outcome Summary:
 ## 1. Project Overview
 The project has successfully developed a robust, production-ready AI-Powered Blockchain Wallet Fraud Detection System. The application analyzes blockchain transaction behaviors for given Ethereum or Bitcoin wallet addresses to determine the probability of the wallet being involved in fraudulent activities. 
 
